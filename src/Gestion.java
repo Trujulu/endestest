@@ -73,7 +73,7 @@ public class Gestion {
 		switch (index) {
 			case 1: 
 				person1 = null;
-				System.out.println("Persona eliminada correctamente");
+				System.out.println("Persona eliminada correctamente.");
 			break;
 			case 2: 
 				person2 = null;
