@@ -77,11 +77,11 @@ public class Gestion {
 			break;
 			case 2: 
 				person2 = null;
-				System.out.println("Persona eliminada correctamente");
+				System.out.println("Persona eliminada correctamente.");
 			break;
 			case 3: 
 				person3 = null;
-				System.out.println("Persona eliminada correctamente");
+				System.out.println("Persona eliminada correctamente.");
 			break;
 		}
 	}
